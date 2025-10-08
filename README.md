@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://arrowloki.codemagic.app/](https://arrowloki.codemagic.app/)
 
-- 💬 Ask me about **Python,Flask,Django**
-
 - 📫 How to reach me **loki.naveen549@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
